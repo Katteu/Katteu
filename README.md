@@ -2,7 +2,7 @@
 
 <br/>
 
-# 💫 About Me: <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&vCenter=true&width=439&height=18&lines=I+am+an+IT+student.;I+am+a+Web+Developer.;I+am+a+Startup+Enthusiast.;I+am+a+Dreamer.;I+love+to+code+in+general!" alt="Typing SVG" /></a>
+# 💫 About Me: <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&vCenter=true&width=439&height=18&lines=I+am+an+IT+student.;I+am+an+aspiring+Web+Developer.;I+am+a+Startup+Enthusiast.;I+am+a+Dreamer.;I+love+to+code+in+general!" alt="Typing SVG" /></a>
 
 <br/>
 
