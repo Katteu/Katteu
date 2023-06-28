@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋! I'm Kathea Mari Mayol.</h2>
 
-![Snake animation](https://github.com/{{your_username}}/Katteu/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Katteu/Katteu/blob/output/github-contribution-grid-snake.svg)
 
 <br/>
 
