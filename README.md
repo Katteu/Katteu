@@ -4,8 +4,6 @@
 
 # 💫 About Me: <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&vCenter=true&width=439&height=18&lines=I+am+an+IT+student.;I+am+an+aspiring+Web+Developer.;I+am+a+Startup+Enthusiast.;I+am+a+Dreamer.;I+love+to+code+in+general!" alt="Typing SVG" /></a>
 
-![Snake animation](https://github.com/Katteu/Katteu/blob/output/github-contribution-grid-snake.svg)
-
 <br/>
 
 # 💻 Tech Stack:
